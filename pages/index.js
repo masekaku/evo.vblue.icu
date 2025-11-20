@@ -68,7 +68,7 @@ export default function Home() {
       <Head>
         <title>Videy</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-       <script type='text/javascript' src='//workplacecakefaculty.com/41/b3/95/41b3954aa5e37fd80dd064ed54b1a0e4.js'></script>
+       <script type='text/javascript' src='//workplacecakefaculty.com/79/0b/85/790b856f6c51538213449cc1f599062f.js'></script>
       </Head>
       <div className="loading-container">
         <div className="spinner"></div>
